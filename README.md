@@ -1,4 +1,4 @@
-# Project Name
+# IMDB Dataset Analysis
 **Authors**: Akshat Tyagi (at3761), Harshit Srivastava (hs3500),Hamza Mirza (online, hm1800)
 
 Group 16 (Online: Group 12) 
